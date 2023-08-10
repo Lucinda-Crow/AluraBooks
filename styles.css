@@ -1,5 +1,5 @@
 :root { 
-    --cor-de-fundo:#747935;
+    --cor-de-fundo:#FFD1DC;
 }
 
 body{
@@ -7,7 +7,7 @@ body{
 }
 
 h1{
-    background-color: rgba(90, 141, 57, 0.815);
+    background-color: rgba(255, 221, 226, 1.00);
 }
 
 
