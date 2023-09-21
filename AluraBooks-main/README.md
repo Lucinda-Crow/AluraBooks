@@ -1,0 +1,6 @@
+# AluraBooks
+
+é um projeto da escola um site de biblioteca...
+
+
+SOCORRO EU NÃO AGUENTO MAIS ESSE GOVERNO DO PARANÁ AHHHHHHHHHHH....
